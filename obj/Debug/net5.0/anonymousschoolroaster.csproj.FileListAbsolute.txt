@@ -1,0 +1,16 @@
+/home/williams/Desktop/Erbaver/anonymousschoolroaster/bin/Debug/net5.0/anonymousschoolroaster
+/home/williams/Desktop/Erbaver/anonymousschoolroaster/bin/Debug/net5.0/anonymousschoolroaster.deps.json
+/home/williams/Desktop/Erbaver/anonymousschoolroaster/bin/Debug/net5.0/anonymousschoolroaster.runtimeconfig.json
+/home/williams/Desktop/Erbaver/anonymousschoolroaster/bin/Debug/net5.0/anonymousschoolroaster.runtimeconfig.dev.json
+/home/williams/Desktop/Erbaver/anonymousschoolroaster/bin/Debug/net5.0/anonymousschoolroaster.dll
+/home/williams/Desktop/Erbaver/anonymousschoolroaster/bin/Debug/net5.0/ref/anonymousschoolroaster.dll
+/home/williams/Desktop/Erbaver/anonymousschoolroaster/bin/Debug/net5.0/anonymousschoolroaster.pdb
+/home/williams/Desktop/Erbaver/anonymousschoolroaster/obj/Debug/net5.0/anonymousschoolroaster.csproj.AssemblyReference.cache
+/home/williams/Desktop/Erbaver/anonymousschoolroaster/obj/Debug/net5.0/anonymousschoolroaster.GeneratedMSBuildEditorConfig.editorconfig
+/home/williams/Desktop/Erbaver/anonymousschoolroaster/obj/Debug/net5.0/anonymousschoolroaster.AssemblyInfoInputs.cache
+/home/williams/Desktop/Erbaver/anonymousschoolroaster/obj/Debug/net5.0/anonymousschoolroaster.AssemblyInfo.cs
+/home/williams/Desktop/Erbaver/anonymousschoolroaster/obj/Debug/net5.0/anonymousschoolroaster.csproj.CoreCompileInputs.cache
+/home/williams/Desktop/Erbaver/anonymousschoolroaster/obj/Debug/net5.0/anonymousschoolroaster.dll
+/home/williams/Desktop/Erbaver/anonymousschoolroaster/obj/Debug/net5.0/ref/anonymousschoolroaster.dll
+/home/williams/Desktop/Erbaver/anonymousschoolroaster/obj/Debug/net5.0/anonymousschoolroaster.pdb
+/home/williams/Desktop/Erbaver/anonymousschoolroaster/obj/Debug/net5.0/anonymousschoolroaster.genruntimeconfig.cache
