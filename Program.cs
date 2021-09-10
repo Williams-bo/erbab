@@ -24,7 +24,7 @@ namespace anonymousschoolroaster
 
              for(int i = 0; i < score.Count; i++)
             {
-                if(score[i] > 70)
+                if(score[i] >= 70) //Bug fixed
                 {
                     passedStudents++;
                 }
@@ -34,7 +34,7 @@ namespace anonymousschoolroaster
                     averageStudents++;
                 }
 
-                if(score[i] < 40)
+                if(score[i] < 50) //Bug fixed
                 {
                     failedStudents++;
                 }
